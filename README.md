@@ -1,5 +1,5 @@
 # EnforceAdobeReader32bit
-Removes Adobe 64bit, sets the reg entry to prevent Adobe to upgrade to 64 bit, calls the setup.
+Summary: Removes Adobe 64bit, sets the reg entry to prevent Adobe to upgrade to 64 bit, calls the setup.
 
 Adobe updates the Reader to 64bit in background. There are applications that require the 32bit version of Adobe to work properly. The script will... 
 
